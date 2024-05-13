@@ -7,12 +7,12 @@
 // console.log(typeof valuenumber1)
 // console.log(valuenumber1)
 
-// let score2=null
-// let valuenumber2=Number(score2)
-// console.log(typeof score2)
-// console.log(score2)
-// console.log(typeof valuenumber2)
-// console.log(valuenumber2)
+let score2=null
+let valuenumber2=Number(score2)
+console.log(typeof score2)
+console.log(score2)
+console.log(typeof valuenumber2)
+console.log(valuenumber2)
 
 // let score2=undefined
 // let valuenumber2=Number(score2)
