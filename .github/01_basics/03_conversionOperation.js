@@ -64,6 +64,17 @@ let somnumber=33
 
 let counter=100
 counter++
-console.log(counter)
+// console.log(counter)
 // console.log(++counter)
 
+
+
+// console.log(null>0);
+// console.log(null==0);
+// console.log(null>=0);
+// console.log(undefined>=0);
+// console.log(undefined<=0);
+// console.log(undefined>0);
+
+/* === */
+console.log("2"===2)
