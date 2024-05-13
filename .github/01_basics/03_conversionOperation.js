@@ -40,7 +40,7 @@
 // let isloggin=""
 let isloggin="abcd123"
 let booleanIsloggin=Boolean(isloggin)
-console.log(booleanIsloggin)
+// console.log(booleanIsloggin)
 /* 
 1==> true; 0==>false 
 "" ==>false
@@ -48,5 +48,22 @@ console.log(booleanIsloggin)
 
 */
 let somnumber=33
-console.log(String(somnumber))
-console.log(typeof String(somnumber))
+// console.log(String(somnumber))
+// console.log(typeof String(somnumber))
+
+
+/*oprations****************************************** */
+// console.log("1"+2);
+// console.log(1+"2");
+// console.log("1"+2+2);
+// console.log(1+2+"2");
+// console.log(true)
+// console.log(+true)
+// // console.log(true+)
+// console.log(+"")
+
+let counter=100
+counter++
+console.log(counter)
+// console.log(++counter)
+
